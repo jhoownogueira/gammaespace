@@ -6,7 +6,7 @@ import { EmConstrucao } from '../styles/pages'
 export default function Home() {
   return (
     <EmConstrucao>
-      <img src="/images/cat.gif"/>
+      <img src="/images/gammaespace.png"/>
     </EmConstrucao>
   )
 }
